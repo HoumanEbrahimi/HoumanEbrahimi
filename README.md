@@ -5,7 +5,8 @@
 - 📫 How to reach me houmanebrahimi67@gmail.com or https://www.linkedin.com/in/houman-ebrahimi-6a3789213/
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python)](https://skillicons.dev)
 <!---
 HoumanEbrahimi/HoumanEbrahimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
