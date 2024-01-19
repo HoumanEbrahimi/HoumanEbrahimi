@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a car dealership website and planning to work on a resume builder
 - 📫 How to reach me houmanebrahimi67@gmail.com or https://www.linkedin.com/in/houman-ebrahimi-6a3789213/
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?HoumanEbrahimi=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 Prior Experience in:
 
