@@ -13,5 +13,5 @@ HoumanEbrahimi/HoumanEbrahimi is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoumanEbrahimi&hide=javascript,css,scss,html&theme=tokyonight)
 
