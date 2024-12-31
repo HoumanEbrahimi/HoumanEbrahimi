@@ -11,7 +11,7 @@
 
 Prior Experience in:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,androidstudio,cs,c,cpp,js,express,nodejs,nextjs,react,r,sqlite,dotnet,java,matlab,MongoDBperline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,androidstudio,cs,c,cpp,js,express,nodejs,nextjs,react,r,sqlite,dotnet,java,matlab,MongoDBperline,jenkins=7)](https://skillicons.dev)
 <!---
 HoumanEbrahimi/HoumanEbrahimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
