@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Houman Ebrahimi
-- 👀 I’m interested in Back End development, Web app development, and web design 
-- 🌱 I’m currently learning more about Next.js and doing Backend development 
-- 💞️ I’m looking to collaborate on a car dealership website and planning to work on a resume builder
+- 👀 I’m interested in FullStack Software Development, as well as Developing Machine Learning Algorithms
+- 🌱 I’m currently working as a Backend Software Engineer
+- 💞️ I’m looking to collaborate on a car dealership website
 - 📫 How to reach me houmanebrahimi67@gmail.com or https://www.linkedin.com/in/houman-ebrahimi-6a3789213/
 
 <img src="https://i.pinimg.com/originals/2b/d9/53/2bd95341edcd85a63bbe9b395f3289af.gif" width="500" height="281" orentation="center"/>
