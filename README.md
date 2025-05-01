@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on a car dealership website
 - 📫 How to reach me houmanebrahimi67@gmail.com or https://www.linkedin.com/in/houman-ebrahimi-6a3789213/
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/2b/d9/53/2bd95341edcd85a63bbe9b395f3289af.gif" width="500" height="281" />
-</div>
-
-
 Prior Experience in:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,androidstudio,cs,c,cpp,js,express,nodejs,nextjs,react,r,sqlite,dotnet,java,matlab,MongoDBperline,jenkins=7)](https://skillicons.dev)
