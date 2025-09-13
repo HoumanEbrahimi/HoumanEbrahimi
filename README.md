@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoumanEbrahimi&hide=javascript,css,scss,html&theme=tokyonight)
 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+
